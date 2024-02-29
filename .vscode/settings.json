@@ -1,0 +1,7 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "./solana-starter/rs/Cargo.toml",
+    "./vault/Cargo.toml"
+    // "./solana-starter/rs/src/programs/idl_macro/Cargo.toml"
+  ]
+}
